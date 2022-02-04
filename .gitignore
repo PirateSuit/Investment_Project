@@ -8,6 +8,7 @@ __pycache__/
 
 *.py~
 config.py
+.DS_Store
 
 # Distribution / packaging
 .Python
